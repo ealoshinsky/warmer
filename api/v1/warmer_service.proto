@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package warmerd.v1;
+option go_package = "github.com/ealoshinsky/warmer;warmer";
+
+service Warmerd {
+
+}
